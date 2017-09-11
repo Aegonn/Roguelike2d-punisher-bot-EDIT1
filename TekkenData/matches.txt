@@ -1,0 +1,67 @@
+LOSS | You | PAUL | vs | Fak | GIGAS | 1-3 | 2017_09_05_19.55
+LOSS | You | BRYAN | vs | Over|{ill | PAUL | 1-3 | 2017_09_05_20.00
+WIN | You | LAW | vs | dCoder | PAUL | 3-1 | 2017_09_05_20.14
+WIN | You | LEE | vs | Ikari | LUCKY_CHLOE | 3-0 | 2017_09_06_13.55
+LOSS | You | DRAGUNOV | vs | ZoliD ™ | LUCKY_CHLOE | 0-3 | 2017_09_06_13.58
+LOSS | You | LUCKY_CHLOE | vs | Spieledota | JIN | 0-3 | 2017_09_06_14.03
+WIN | You | AKUMA | vs | Sottic 滅 | GIGAS | 3-0 | 2017_09_06_14.12
+WIN | You | JOSIE | vs | Ortenrosse | GIGAS | 3-2 | 2017_09_06_14.18
+LOSS | You | GIGAS | vs | Djehouty | DRAGUNOV | 1-3 | 2017_09_06_14.24
+WIN | You | GIGAS | vs | Polar | NINA | 3-0 | 2017_09_06_14.29
+WIN | You | YOSHIMITSU | vs | Dejma | GIGAS | 3-1 | 2017_09_06_14.33
+WIN | You | GIGAS | vs | Dethal | LUCKY_CHLOE | 3-0 | 2017_09_06_14.38
+WIN | You | LAW | vs | .#Jimmy | GIGAS | 3-2 | 2017_09_06_14.43
+WIN | You | LUCKY_CHLOE | vs | Aigsa | GIGAS | 3-2 | 2017_09_06_14.47
+LOSS | You | GIGAS | vs | Kim Seolhyun <3 | ALISA | 2-3 | 2017_09_06_14.53
+WIN | You | AKUMA | vs | Sottic 滅 | GIGAS | 3-0 | 2017_09_06_14.57
+LOSS | You | DRAGUNOV | vs | HavannaGER | GIGAS | 0-3 | 2017_09_06_15.00
+WIN | You | GIGAS | vs | HavannaGER | DRAGUNOV | 3-0 | 2017_09_06_15.05
+LOSS | You | JACK_7 | vs | Devilo92 | KAZUYA | 2-3 | 2017_09_07_00.17
+LOSS | You | PAUL | vs | seoulbea | KAZUYA | 1-3 | 2017_09_07_00.21
+WIN | You | KAZUYA | vs | Devilake | PAUL | 3-1 | 2017_09_07_00.26
+LOSS | You | HEIHACHI | vs | PRISM | Hex | KAZUYA | 0-3 | 2017_09_07_00.29
+LOSS | You | JIN | vs | Nati Per Perdere | KAZUYA | 0-3 | 2017_09_07_00.32
+WIN | You | KAZUYA | vs | RKoz | CLAUDIO | 3-1 | 2017_09_07_00.36
+LOSS | You | ALISA | vs | mir1286 | KAZUYA | 2-3 | 2017_09_07_00.45
+LOSS | You | SHAHEEN | vs | m๑ﭥ$t1cK^.-  | KAZUYA | 1-3 | 2017_09_07_00.53
+WIN | You | AKUMA | vs | Alvaroxo | KAZUYA | 3-2 | 2017_09_07_00.58
+WIN | You | CLAUDIO | vs | RKoz | KAZUYA | 3-2 | 2017_09_07_01.02
+WIN | You | KAZUYA | vs | FUCK DOTA2 | KAZUYA | 3-1 | 2017_09_07_01.07
+WIN | You | KATARINA | vs | Mittoso Tucker | KAZUYA | 3-1 | 2017_09_07_01.12
+WIN | You | KAZUYA | vs | Zimiat | LAW | 3-0 | 2017_09_07_01.16
+WIN | You | LAW | vs | Zimiat | KAZUYA | 3-1 | 2017_09_07_01.20
+WIN | You | KAZUYA | vs | Flequi | XIAOYU | 3-0 | 2017_09_07_01.25
+WIN | You | KAZUYA | vs | Flequi | XIAOYU | 3-0 | 2017_09_07_01.28
+LOSS | You | JIN | vs | Conclusion | KAZUYA | 0-3 | 2017_09_07_01.37
+LOSS | You | LAW | vs | Callibur | KAZUYA | 0-3 | 2017_09_07_01.39
+WIN | You | KAZUYA | vs | Callibur | LAW | 3-0 | 2017_09_07_01.42
+WIN | You | KAZUYA | vs | Sk'cR Amblems | AKUMA | 3-0 | 2017_09_07_01.46
+WIN | You | KAZUYA | vs | thetsdplays | KATARINA | 3-1 | 2017_09_07_01.51
+LOSS | You | KAZUYA | vs | Wrathchild | KAZUYA | 1-3 | 2017_09_07_01.55
+WIN | You | KAZUYA | vs | Seekuh | STEVE | 3-0 | 2017_09_07_02.00
+LOSS | You | BRYAN | vs | CH Hydrax | KAZUYA | 2-3 | 2017_09_07_02.04
+LOSS | You | STEVE | vs | Seekuh | KAZUYA | 1-3 | 2017_09_07_02.08
+WIN | You | PAUL | vs | Shishioh | KAZUYA | 3-1 | 2017_09_07_02.12
+WIN | You | KAZUYA | vs | Shishioh | PAUL | 3-0 | 2017_09_07_02.16
+WIN | You | STEVE | vs | Seekuh | KAZUYA | 3-0 | 2017_09_07_02.19
+WIN | You | PAUL | vs | Shishioh | KAZUYA | 3-1 | 2017_09_07_02.23
+WIN | You | ELIZA | vs | Luchetz | KAZUYA | 3-1 | 2017_09_07_02.27
+LOSS | You | LARS | vs | Lestat_Sev | KAZUYA | 0-3 | 2017_09_07_11.45
+WIN | You | JOSIE | vs | SMBF | Badger | KAZUYA | 3-0 | 2017_09_07_11.49
+LOSS | You | MIGUEL | vs | DaNightmare77 | KAZUYA | 2-3 | 2017_09_07_11.55
+WIN | You | KAZUYA | vs | ♥ Lyrax ♥ | DEVIL_JIN | 3-1 | 2017_09_07_12.00
+LOSS | You | KING | vs | communism will p | KAZUYA | 0-3 | 2017_09_07_12.04
+WIN | You | KAZUYA | vs | Croatoan | KING | 3-2 | 2017_09_07_12.09
+WIN | You | CLAUDIO | vs | Pleblord | KING | 3-1 | 2017_09_07_12.17
+WIN | You | JOSIE | vs | PerC | HWOARANG | 3-1 | 2017_09_07_12.25
+LOSS | You | BRYAN | vs | spirit | JOSIE | 1-3 | 2017_09_07_12.29
+WIN | You | JOSIE | vs | One Round Wonder | DEVIL_JIN | 3-1 | 2017_09_07_12.34
+WIN | You | JOSIE | vs | The Worm and Onl | MIGUEL | 3-0 | 2017_09_07_12.38
+LOSS | You | MIGUEL | vs | The Worm and Onl | JOSIE | 1-3 | 2017_09_07_12.42
+LOSS | You | HWOARANG | vs | karate_swagg22 | JOSIE | 0-3 | 2017_09_07_12.44
+LOSS | You | STEVE | vs | Ezekiel | JOSIE | 0-3 | 2017_09_07_12.47
+LOSS | You | STEVE | vs | Ezekiel | JOSIE | 1-3 | 2017_09_07_12.51
+LOSS | You | JOSIE | vs | terrible | JOSIE | 0-3 | 2017_09_07_12.54
+LOSS | You | HWOARANG | vs | PerC | JOSIE | 0-3 | 2017_09_07_12.57
+LOSS | You | BRYAN | vs | DrHat | JOSIE | 0-3 | 2017_09_07_13.00
+WIN | You | JOSIE | vs | davidekyo | KAZUYA | 3-0 | 2017_09_07_13.04
